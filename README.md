@@ -1,6 +1,7 @@
 # Atributika_Universal
 Create an iOS Universal Framework
 
+- Just use Atributika to test create universall framework.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/psharanda/Atributika/master/README/logo@2x.png" alt="" width="392" height="45">
